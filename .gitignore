@@ -3,7 +3,6 @@
 ################################################################################
 
 /.vs
-/TodoApi/bin/Debug/net6.0
-/TodoApi/bin/Release/net6.0
+/TodoApi/bin
 /TodoApi/obj
 /TodoApi/TodoApi.csproj.user
