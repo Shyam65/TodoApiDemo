@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/TodoApi/bin/Debug/net6.0
+/TodoApi/bin/Release/net6.0
+/TodoApi/obj
+/TodoApi/TodoApi.csproj.user
